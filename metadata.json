@@ -1,0 +1,6 @@
+{
+  "name": "Porsche 911 Showcase",
+  "description": "A premium, cinematic campaign microsite showcasing the iconic Porsche 911 with a scroll-driven visual journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
